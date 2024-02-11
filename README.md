@@ -81,6 +81,6 @@ You can find the detailed information on the diagram below:
 <a name="contact"></a>
 ## 📨 Contact Me
 
-[LinkedIn](https://www.linkedin.com/in/hamza-elbelghiti/) •
-[Website](https://Hamagistral.me) •
-[Gmail](hamza.lbelghiti@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/elcidogucan/))
+[Website](https://www.dogucanelci.com)
+[Gmail](dogucanelci@gmail.com)
