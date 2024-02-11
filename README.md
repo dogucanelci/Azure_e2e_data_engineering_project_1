@@ -18,7 +18,7 @@
 <a name="introduction"></a>
 ## 🔬 Project Overview 
 
-This an end-to-end data engineering project on the Azure cloud. Where I did data ingestion from a on-premise SQL Server to Azure Data Lake using Data Factory to transformation using Databricks and Spark, loading to Synapse, and reporting using PowerBI. Also, I used Azure Active Directory (AAD) and Azure Key Vault for the data monitoring and governance purpose. 
+This project can be defined as End-to-end Data Engineering Project applied in Azure Cloud. Basically, Data Ingestion is applied with using Data Factory which gets raw data from on-premise SQL DB to Azure Data Lake storage in bronze layer, then data transformation process is applied by Azure Databricks using Spark and transformed data is stored in silver layer and gold layer kept cleansed data which is loaded into Synapse Serverless DB and its data is visualized in PowerBI report.  Also, I used Azure Active Directory (AAD) and Azure Key Vault for the data monitoring and governance purpose.
 
 <a name="project-architecture"></a>
 ## 📝 Project Architecture
