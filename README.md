@@ -1,6 +1,6 @@
 ![image](https://github.com/dogucanelci/Azure_e2e_data_engineering_project_1/assets/59261856/bf084dc4-c403-4b3e-a1c4-f67bdc339f6b)
 
-<h1 style="display: inline-block;">🔧 Analyzing Sales of AdventureWorks 🔌</h1>
+<h1 style="display: inline-block;"> Analyze Project using AdventureWorks 2019 DB </h1>
 
 <p>On-prem DB to Azure Cloud Pipeline with Data Factory, Lake Storage, Spark, Databricks, Synapse, PowerBI</p>
 
