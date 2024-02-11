@@ -7,14 +7,13 @@
 
 ## 📝 Table of Contents
 1. [Project Overview](#introduction)
-2. [Key Insights](#key-insights)
-3. [Project Architecture](#project-architecture)  
-  3.1. [Data Ingestion](#data-ingestion)  
-  3.2. [Data Transformation](#data-transformation)  
-  3.3. [Data Loading](#data-loading)  
-  3.4. [Data Reporting](#data-reporting)
-4. [Credits](#credits)
-5. [Contact](#contact)
+2. [Project Architecture](#project-architecture)  
+  2.1. [Data Ingestion](#data-ingestion)  
+  2.2. [Data Transformation](#data-transformation)  
+  2.3. [Data Loading](#data-loading)  
+  2.4. [Data Reporting](#data-reporting)
+3. [Credits](#credits)
+4. [Contact](#contact)
 
 <a name="introduction"></a>
 ## 🔬 Project Overview 
